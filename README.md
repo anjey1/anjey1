@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/SEO-Optimized-00C853?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/PPC-Ads-FF6D00?style=for-the-badge&logo=googleads&logoColor=white" alt="PPC">
+  <img src="https://img.shields.io/badge/CRO-Conversion%20Rate%20Optimization-1E88E5?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="CRO">
 </p>
 
 
