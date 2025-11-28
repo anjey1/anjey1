@@ -29,11 +29,21 @@
 
 
 <p align="center">
-  I'm a Full Stack Web Developer (Node, Python, PHP | Vue.js, React, Svelte | React Native, Expo),  
-  Full Stack Marketer (PPC, SEO, Conversion Rate Optimization),  
-  and DevOps Enthusiast (Docker, GCP, AWS).  
-  I am currently passionate about AI (text-text, text-image, image-image, image-video)  
-  and Game Development (Pygame, Godot, and JS ML Training).
+  <samp>
+    
+      Full Stack Web Developer working primarily with Node.js (NestJS) and React TypeScript on AWS
+      Also experienced with Laravel in PHP and familiar with FastAPI and Flask in Python.
+      
+      Full Stack Marketer running Facebook and other social campaigns with SEO optimization, 
+      focused on conversion optimization.
+      
+      DevOps enthusiast using Docker & Terraform and other tooling
+      
+      Currently exploring AI  (text, image, and video workflows) and game 
+      development with Pygame and Godot
+  
+  </samp>
 </p>
+
 
 
